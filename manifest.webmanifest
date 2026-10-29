@@ -1,0 +1,12 @@
+﻿{
+  "name": "Alfa Belle · Padaria e Confeitaria",
+  "short_name": "Alfa Belle",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#F6EFE3",
+  "theme_color": "#7A1622",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
